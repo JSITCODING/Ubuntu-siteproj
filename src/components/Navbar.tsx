@@ -12,7 +12,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Users className="h-8 w-8" />
-            <span className="font-bold text-xl">Ubuntu Association</span>
+            <span className="font-bold text-xl">Ubuntu Humanized</span>
           </Link>
           <div className="flex items-center space-x-4">
             <Link to="/" className="hover:text-orange-200">Home</Link>
